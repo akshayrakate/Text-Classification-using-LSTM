@@ -1,5 +1,5 @@
 # Classification-using-LSTM
-Classification task on Donor Choose dataset using LSTM networks.
+Binary classification task on Donor Choose dataset using LSTM networks.
 
 ### [Link to Kaggle Dataset](https://www.kaggle.com/manasvee1/donorschooseorg-application-screening)
 
